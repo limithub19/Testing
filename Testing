@@ -1,3 +1,3 @@
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/limithub19/Testlang/refs/heads/main/Test"))()
 
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Ohgqi6TW0b/0", true))()
